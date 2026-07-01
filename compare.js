@@ -1,1 +1,0 @@
-console.log("its play a role for compare");
